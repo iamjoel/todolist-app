@@ -1,0 +1,25 @@
+{
+  "name": "todolist-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/iamjoel/todolist-app",
+  "authors": [
+    "金伟强 <iamjoel007@gmail.com>"
+  ],
+  "description": "todolist app",
+  "main": "src/views/index.html",
+  "keywords": [
+    "todolist",
+    "framework7"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Framework7": "framework7#~1.3.1"
+  }
+}
